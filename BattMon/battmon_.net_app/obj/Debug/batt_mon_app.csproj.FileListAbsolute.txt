@@ -1,0 +1,11 @@
+C:\Users\Shaun\Documents\GitHub\Arduino\BattMon\battmon_.net_app\bin\Debug\batt_mon_app.exe.config
+C:\Users\Shaun\Documents\GitHub\Arduino\BattMon\battmon_.net_app\obj\Debug\batt_mon_app.csprojResolveAssemblyReference.cache
+C:\Users\Shaun\Documents\GitHub\Arduino\BattMon\battmon_.net_app\obj\Debug\batt_mon_app.BatteryInfoForm.resources
+C:\Users\Shaun\Documents\GitHub\Arduino\BattMon\battmon_.net_app\obj\Debug\batt_mon_app.Form1.resources
+C:\Users\Shaun\Documents\GitHub\Arduino\BattMon\battmon_.net_app\obj\Debug\batt_mon_app.Properties.Resources.resources
+C:\Users\Shaun\Documents\GitHub\Arduino\BattMon\battmon_.net_app\obj\Debug\batt_mon_app.csproj.GenerateResource.Cache
+C:\Users\Shaun\Documents\GitHub\Arduino\BattMon\battmon_.net_app\bin\Debug\batt_mon_app.exe
+C:\Users\Shaun\Documents\GitHub\Arduino\BattMon\battmon_.net_app\bin\Debug\batt_mon_app.pdb
+C:\Users\Shaun\Documents\GitHub\Arduino\BattMon\battmon_.net_app\bin\Debug\NextUI.dll
+C:\Users\Shaun\Documents\GitHub\Arduino\BattMon\battmon_.net_app\obj\Debug\batt_mon_app.exe
+C:\Users\Shaun\Documents\GitHub\Arduino\BattMon\battmon_.net_app\obj\Debug\batt_mon_app.pdb
